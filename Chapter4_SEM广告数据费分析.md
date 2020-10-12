@@ -41,6 +41,6 @@ CPR：体系关键词广告对用户吸引程度，注意（1）CTR高低与最�
 
 关键词质量度得分是一个需要长期关注的指标，对于CPC调控起着重要的参考价值
 
-  <img src=/img/quality.png width="40%" height="50%">
+  <img src=/img/quality_eg.png width="40%" height="50%">
 
 ## SEM数据分析方法轮
