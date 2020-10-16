@@ -87,6 +87,7 @@ SEM广告数据分析痛点：
 <img src=/img/score_sys1.png width="40%" height="50%">
 
 <img src=/img/score_sys2.png width="40%" height="50%">
+
 - 对点击率和CPC的优化调控。通过对创意、高级样式进行A/B测试，提高关键词的点击率
 - 甄别和剔除效果不理想的关键词，提高关键词的有效率
 <img src=/img/non_convertor.png width="40%" height="50%">
